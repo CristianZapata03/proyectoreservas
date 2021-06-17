@@ -1,0 +1,21 @@
+body{
+  background: url(https://aws.admagazine.com/prod/designs/v1/assets/620x439/63892.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  overflow: hidden;
+}
+h1{
+	font-family: "Broadway";
+	color:White;
+	text-shadow: 5px 5px 5px black;
+	font-size:50px;
+  text-align: center;
+}
+h2{
+	font-family: "Broadway";
+	font-weight: bold;
+	color: white;
+	text-shadow: 3px 3px 3px black;
+	font-size:30px;
+  text-align: center;
+}
